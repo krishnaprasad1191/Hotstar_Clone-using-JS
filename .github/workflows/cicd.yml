@@ -6,7 +6,6 @@ on:
 
 jobs:
   build:
-  name: Building the JS application
   runs-on: ubuntu-latest
 
   steps:
